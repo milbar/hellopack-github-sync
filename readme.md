@@ -1,7 +1,7 @@
-# 🧩 Hellopack Composer Mirror
+# 🧩 HelloPack GitHub Sync
 
-A CLI-based GitHub sync tool that turns your private HelloPack WordPress plugins into github repositories that are
-tagged whit the versions.
+A CLI-based GitHub sync tool that turns your private HelloPack WordPress plugins into GitHub repositories that are
+tagged with the versions.
 
 ## 🔍 What does it do?
 
@@ -12,7 +12,7 @@ This tool:
 - Syncs them to private **GitHub repositories**
 - Creates a minimal `composer.json` file
 - Pushes the plugin contents with proper **version tags**
-- Cleans up everything afterwards
+- Cleans up everything afterward
 
 > Designed for teams who use HelloPack plugins and need a reliable way to pull them into Composer-managed environments.
 
