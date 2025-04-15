@@ -1,0 +1,7 @@
+.idea
+.vscode
+.env
+.htaccess
+vendor
+config.json
+plugin-list.json
