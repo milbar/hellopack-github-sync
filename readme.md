@@ -28,6 +28,8 @@ hellopack-github-sync/
 │   ├── HelloApiService.php
 │   ├── Helpers.php
 │   └── PluginDeployer.php
+├── templates/
+│   └── gitignore.txt
 ├── vendor/
 ├── .env
 ├── .gitignore
